@@ -1,4 +1,22 @@
-# Spring Pet Clinic and the Developer Sandbox for Red Hat OpenShift
+# TeamBattleship
+Concurrent Programming Project
+
+This GitHub Repository is used to collaboratively work on the Online Battleship Game for our Concurrent Programming Project.
+
+Group Members:
+
+1.Kayshav a/I Renganathan
+
+2.Nima Razavi
+
+3.Jone Wan Gan
+
+4.Muhammad Izzat Hafizuddin Bin Azmi
+
+5.Aiman Harith Bin Edrin Nazri
+
+
+
 
 This repo contains a container-ready implementation of the iconic Spring Petclinic application. Specifically, this code is useful with the OpenShift Source-to-Image (s2i) technology and is part of the introductory material for [Developer Sandbox for Red Hat OpenShift](https://developers.redhat.com/developer-sandbox).
 
